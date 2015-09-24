@@ -3,12 +3,16 @@
 
 En mi caso ya contaba con NodeJS instalado, para descargarlo se debe entrar en su [página web](https://nodejs.org/en/).
 
-[NodeJs](http://prntscr.com/8k36a3)
+[NodeJs](http://i.imgur.com/OUewPJI.png)
 
-Una vez descargado e instalado, contaremos con el instalador de paquetes **npm** o node package manager. Haciendo uso de este instalaremos **express** un framework web minimalista.
+Después de instalar *NodeJs*, usaremos npm para instalar *express* un Framework Web Rápido, De Mente Abierta, minimalista para Node.js.
 
-[Express](http://prntscr.com/8k38wk)
+[Express](http://i.imgur.com/eUFIkSz.png)
 
+No instalé *Atom* puesto que utilizo *Netbeans*, si fuera necesario lo instalaré.
 
+[Netbeans](http://i.imgur.com/eWi3txR.png)
 
-[Netbeans](http://prntscr.com/8k34wo)
+No me hizo falta la utilización de pandoc ya que netbeans posee un generador de html.
+
+[Convertir a html](http://i.imgur.com/ofwloGb.png)
